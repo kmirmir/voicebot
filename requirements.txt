@@ -1,0 +1,7 @@
+streamlit 
+speechrecognition 
+pyttsx3 
+openai==0.28
+python-dotenv
+pyaudio
+setuptools
